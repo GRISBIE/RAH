@@ -9,6 +9,6 @@ function setup() {
   createCanvas(800, 600);
 }	
 function draw() {
-  background(255);
+  background(255,0,0);
   image(cowGif, 0, 0);
 }
